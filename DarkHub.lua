@@ -356,4 +356,4 @@ MiscSection:NewSlider("JumpPower", "JumpPower", 130, 50, function(Value) -- 500 
     game.Players.LocalPlayer.Character.Humanoid.JumpPower = (Value)
 end)
 
-MiscSection:NewLabel("not finished yet, more soon!")
+MiscSection:NewLabel("im never gonna finish this so ye.")
