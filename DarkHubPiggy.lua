@@ -77,7 +77,7 @@ game:GetService("Workspace")[game.Players.LocalPlayer.Name]:FindFirstChildOfClas
     end
 end)
 
-MaimSection:NewButton("Item Gui", "item gui", function()
+MainSection:NewButton("Item Gui", "item gui", function()
     --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
@@ -158,7 +158,7 @@ end
         end
 end)
 
-MainSection:NewToggle("Noclip Camera", "makes your camera noclip anywhere", function(state)
+MainSection:NewToggle("Noclip Camera", "noclip camera.", function(state)
     if state then
         --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
