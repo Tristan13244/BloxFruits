@@ -5,7 +5,7 @@ local fruits = {
   "GhostFruit", "MagmaFruit", "QuakeFruit", "SpiderFruit", "LoveFruit", 
   "PainFruit", "PhoenixFruit", "SoundFruit", "RumbleFruit", "BlizzardFruit", 
   "PortalFruit", "BuddhaFruit", "GravityFruit", "ShadowFruit", "ControlFruit", 
-  "VenomFruit", "SpiritFruit", "MammothFruit", "T-RexFruit", "DoughFruit", 
+  "VenomFruit", "SpiritFruit", "MammothFruit", "TRexFruit", "DoughFruit", 
   "LeopardFruit", "DragonFruit", "KitsuneFruit"
 }
 
